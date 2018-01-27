@@ -6,11 +6,11 @@ How to use
 in root build.gradle
 
     allprojects {
-		    repositories {
-			   ...
-			    maven { url 'https://jitpack.io' }
-	      }
-	  }
+	 repositories {
+	     ...
+	     maven { url 'https://jitpack.io' }
+	 }
+    }
 
 in app build.gradle
     
