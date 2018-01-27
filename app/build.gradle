@@ -24,4 +24,5 @@ dependencies {
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
 
     implementation project(':screenshot')
+//    implementation 'com.github.evansherry:ScreenShot:1.0.0'
 }
